@@ -11,6 +11,24 @@
 		6A9ACF182A14E1ED00071242 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF172A14E1ED00071242 /* ContentView.swift */; };
 		6A9ACF1A2A14E1EF00071242 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A9ACF192A14E1EF00071242 /* Assets.xcassets */; };
 		6A9ACF1D2A14E1EF00071242 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A9ACF1C2A14E1EF00071242 /* Preview Assets.xcassets */; };
+		6A9ACF242A152D2E00071242 /* HiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF232A152D2E00071242 /* HiView.swift */; };
+		6A9ACF262A156A2D00071242 /* Let'tStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF252A156A2D00071242 /* Let'tStartView.swift */; };
+		6A9ACF282A156CD400071242 /* LanguagesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF272A156CD400071242 /* LanguagesListView.swift */; };
+		6A9ACF2A2A158DC500071242 /* HowKnowDioligoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF292A158DC500071242 /* HowKnowDioligoView.swift */; };
+		6A9ACF2C2A15915900071242 /* LevelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF2B2A15915900071242 /* LevelView.swift */; };
+		6A9ACF2E2A159BBB00071242 /* YourLevelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF2D2A159BBB00071242 /* YourLevelView.swift */; };
+		6A9ACF302A159EC700071242 /* ReasonLearningView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF2F2A159EC700071242 /* ReasonLearningView.swift */; };
+		6A9ACF322A15A5AA00071242 /* FunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF312A15A5AA00071242 /* FunView.swift */; };
+		6A9ACF342A15A7EE00071242 /* AchievementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF332A15A7EE00071242 /* AchievementsView.swift */; };
+		6A9ACF362A15AD2800071242 /* TimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF352A15AD2800071242 /* TimeView.swift */; };
+		6A9ACF382A15B2BF00071242 /* GetReadyv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF372A15B2BF00071242 /* GetReadyv.swift */; };
+		6A9ACF3C2A15BD5300071242 /* LetStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF3B2A15BD5300071242 /* LetStartView.swift */; };
+		6A9ACF402A15BE1F00071242 /* Flag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF3F2A15BE1F00071242 /* Flag.swift */; };
+		6A9ACF422A15BE7400071242 /* Choices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF412A15BE7400071242 /* Choices.swift */; };
+		6A9ACF442A15BE9D00071242 /* Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF432A15BE9D00071242 /* Level.swift */; };
+		6A9ACF462A15BECE00071242 /* Reason.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF452A15BECE00071242 /* Reason.swift */; };
+		6A9ACF482A15BF0400071242 /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF472A15BF0400071242 /* Time.swift */; };
+		6A9ACF4A2A15C24100071242 /* Goals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9ACF492A15C24100071242 /* Goals.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +37,24 @@
 		6A9ACF172A14E1ED00071242 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6A9ACF192A14E1EF00071242 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A9ACF1C2A14E1EF00071242 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6A9ACF232A152D2E00071242 /* HiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiView.swift; sourceTree = "<group>"; };
+		6A9ACF252A156A2D00071242 /* Let'tStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Let'tStartView.swift"; sourceTree = "<group>"; };
+		6A9ACF272A156CD400071242 /* LanguagesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguagesListView.swift; sourceTree = "<group>"; };
+		6A9ACF292A158DC500071242 /* HowKnowDioligoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowKnowDioligoView.swift; sourceTree = "<group>"; };
+		6A9ACF2B2A15915900071242 /* LevelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelView.swift; sourceTree = "<group>"; };
+		6A9ACF2D2A159BBB00071242 /* YourLevelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourLevelView.swift; sourceTree = "<group>"; };
+		6A9ACF2F2A159EC700071242 /* ReasonLearningView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReasonLearningView.swift; sourceTree = "<group>"; };
+		6A9ACF312A15A5AA00071242 /* FunView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunView.swift; sourceTree = "<group>"; };
+		6A9ACF332A15A7EE00071242 /* AchievementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsView.swift; sourceTree = "<group>"; };
+		6A9ACF352A15AD2800071242 /* TimeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeView.swift; sourceTree = "<group>"; };
+		6A9ACF372A15B2BF00071242 /* GetReadyv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetReadyv.swift; sourceTree = "<group>"; };
+		6A9ACF3B2A15BD5300071242 /* LetStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetStartView.swift; sourceTree = "<group>"; };
+		6A9ACF3F2A15BE1F00071242 /* Flag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flag.swift; sourceTree = "<group>"; };
+		6A9ACF412A15BE7400071242 /* Choices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Choices.swift; sourceTree = "<group>"; };
+		6A9ACF432A15BE9D00071242 /* Level.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level.swift; sourceTree = "<group>"; };
+		6A9ACF452A15BECE00071242 /* Reason.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reason.swift; sourceTree = "<group>"; };
+		6A9ACF472A15BF0400071242 /* Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Time.swift; sourceTree = "<group>"; };
+		6A9ACF492A15C24100071242 /* Goals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goals.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +91,24 @@
 				6A9ACF172A14E1ED00071242 /* ContentView.swift */,
 				6A9ACF192A14E1EF00071242 /* Assets.xcassets */,
 				6A9ACF1B2A14E1EF00071242 /* Preview Content */,
+				6A9ACF232A152D2E00071242 /* HiView.swift */,
+				6A9ACF252A156A2D00071242 /* Let'tStartView.swift */,
+				6A9ACF272A156CD400071242 /* LanguagesListView.swift */,
+				6A9ACF292A158DC500071242 /* HowKnowDioligoView.swift */,
+				6A9ACF2B2A15915900071242 /* LevelView.swift */,
+				6A9ACF2D2A159BBB00071242 /* YourLevelView.swift */,
+				6A9ACF2F2A159EC700071242 /* ReasonLearningView.swift */,
+				6A9ACF312A15A5AA00071242 /* FunView.swift */,
+				6A9ACF332A15A7EE00071242 /* AchievementsView.swift */,
+				6A9ACF352A15AD2800071242 /* TimeView.swift */,
+				6A9ACF372A15B2BF00071242 /* GetReadyv.swift */,
+				6A9ACF3B2A15BD5300071242 /* LetStartView.swift */,
+				6A9ACF3F2A15BE1F00071242 /* Flag.swift */,
+				6A9ACF412A15BE7400071242 /* Choices.swift */,
+				6A9ACF432A15BE9D00071242 /* Level.swift */,
+				6A9ACF452A15BECE00071242 /* Reason.swift */,
+				6A9ACF472A15BF0400071242 /* Time.swift */,
+				6A9ACF492A15C24100071242 /* Goals.swift */,
 			);
 			path = DiolingoApp;
 			sourceTree = "<group>";
@@ -137,8 +191,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A9ACF4A2A15C24100071242 /* Goals.swift in Sources */,
+				6A9ACF442A15BE9D00071242 /* Level.swift in Sources */,
+				6A9ACF482A15BF0400071242 /* Time.swift in Sources */,
+				6A9ACF2E2A159BBB00071242 /* YourLevelView.swift in Sources */,
+				6A9ACF2C2A15915900071242 /* LevelView.swift in Sources */,
+				6A9ACF462A15BECE00071242 /* Reason.swift in Sources */,
+				6A9ACF3C2A15BD5300071242 /* LetStartView.swift in Sources */,
+				6A9ACF302A159EC700071242 /* ReasonLearningView.swift in Sources */,
+				6A9ACF2A2A158DC500071242 /* HowKnowDioligoView.swift in Sources */,
+				6A9ACF322A15A5AA00071242 /* FunView.swift in Sources */,
+				6A9ACF422A15BE7400071242 /* Choices.swift in Sources */,
+				6A9ACF262A156A2D00071242 /* Let'tStartView.swift in Sources */,
+				6A9ACF402A15BE1F00071242 /* Flag.swift in Sources */,
 				6A9ACF182A14E1ED00071242 /* ContentView.swift in Sources */,
+				6A9ACF282A156CD400071242 /* LanguagesListView.swift in Sources */,
 				6A9ACF162A14E1ED00071242 /* DiolingoAppApp.swift in Sources */,
+				6A9ACF382A15B2BF00071242 /* GetReadyv.swift in Sources */,
+				6A9ACF342A15A7EE00071242 /* AchievementsView.swift in Sources */,
+				6A9ACF242A152D2E00071242 /* HiView.swift in Sources */,
+				6A9ACF362A15AD2800071242 /* TimeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
