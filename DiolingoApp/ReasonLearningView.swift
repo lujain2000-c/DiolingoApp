@@ -35,13 +35,13 @@ learning French?
             }
             .padding(.bottom, 24)
             Spacer()
-            
-            Reason(reasonImage: "Fun", name: "Just for fun")
-            Reason(reasonImage: "Bag", name: "Jop                  ")
-            Reason(reasonImage: "Book", name: "educcation   ")
-            Reason(reasonImage: "Peopel", name: "Travel             ")
-            Reason(reasonImage: "Others", name: "Other               ")
-            
+            List{
+                Reason(reasonImage: "Fun", name: "Just for fun")
+                Reason(reasonImage: "Bag", name: "Jop                  ")
+                Reason(reasonImage: "Book", name: "educcation   ")
+                Reason(reasonImage: "Peopel", name: "Travel             ")
+                Reason(reasonImage: "Others", name: "Other               ")
+            }.scrollContentBackground(.hidden)
             ZStack(){
                                 Color("MyGreen")
                                 .cornerRadius(10)

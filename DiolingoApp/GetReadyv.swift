@@ -33,7 +33,7 @@ Text("""
                                 .shadow(radius: 5)
                                     
                                    .padding()
-                NavigationLink("CONTINUE", destination: FunView() )
+                NavigationLink("CONTINUE", destination: Lessone1View() )
                     .foregroundColor(.white)
                                 .font(.headline)
                                 .bold()

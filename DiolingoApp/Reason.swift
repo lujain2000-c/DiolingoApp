@@ -12,12 +12,12 @@ struct Reason: View{
     var reasonImage: String
     var name: String
     var body: some View{
-        ScrollView{
+       // List{
             ZStack{
-                Color(.white)
-                    .cornerRadius(8)
-                    .frame(width: 350, height: 65)
-                    .shadow(radius: 5)
+//                Color(.white)
+//                    .cornerRadius(8)
+//                    .frame(width: 350, height: 65)
+//                    .shadow(radius: 5)
                 HStack{
                     Image(reasonImage)
                         .resizable()
@@ -33,6 +33,6 @@ struct Reason: View{
                 .padding(.trailing,120)
             }
             
-        }
+       // }
     }
 }

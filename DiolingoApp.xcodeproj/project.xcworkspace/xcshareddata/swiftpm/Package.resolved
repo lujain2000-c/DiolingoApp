@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftaudio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleSymmetry/SwiftAudio.git",
+      "state" : {
+        "revision" : "23fdb9b9db4b759cf99390ae8c5381dc7a21a0ae",
+        "version" : "0.15.3"
+      }
+    }
+  ],
+  "version" : 2
+}

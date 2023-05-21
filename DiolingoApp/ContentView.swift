@@ -1,7 +1,7 @@
 import SwiftUI
 struct ContentView: View {
     var body: some View {
-        NavigationView{
+        NavigationStack{
             VStack{
                 VStack(alignment: .center) {
                     Image( "Hi")
@@ -21,7 +21,7 @@ The free, fun, and effective way
                             .frame(width: 350, height: 50)
                             .shadow(radius: 5)
                             .padding()
-                        NavigationLink("GET STARTED", destination: HiView() )
+                        NavigationLink("GET STARTED", destination: LocationView() )
                             .foregroundColor(.white)
                             .font(.headline)
                             .bold()
